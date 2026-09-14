@@ -1,0 +1,149 @@
+{
+  "generatedAt": "2026-09-14",
+  "market": "Germany",
+  "priorityRegion": "Stuttgart / Baden-Württemberg",
+  "profile": [
+    "Power Apps",
+    "Power Automate",
+    "Dataverse",
+    "JavaScript / TypeScript",
+    "Dataverse / Dynamics 365 plugins",
+    "SQL",
+    "C# / .NET",
+    "REST APIs",
+    "Custom connectors",
+    "Microsoft 365 / Azure integration"
+  ],
+  "jobs": [
+    {
+      "fit": 96,
+      "company": "EWE Go",
+      "role": "Software Engineer Microsoft Dynamics 365",
+      "location": "Berlin / Oldenburg",
+      "workMode": "Flexible remote",
+      "recency": "Posted 2 Sep 2026",
+      "matches": ["C#", ".NET", "TypeScript", "Dynamics 365", "Dataverse", "Power Apps", "Power Automate", "SQL", "REST", "Azure Functions", "Service Bus"],
+      "gaps": ["PCF", "XrmToolBox / PAC", "XUnit / Playwright", "3+ years Dynamics CRM"],
+      "url": "https://www.ewe.com/de/karriere/aktuelle-stellenangebote/stelle?referenceCode=WD-6060",
+      "status": "Verified active"
+    },
+    {
+      "fit": 94,
+      "company": "CANCOM",
+      "role": "Consultant Microsoft 365 / Power Platform",
+      "location": "Stuttgart / Karlsruhe / Ulm",
+      "workMode": "Mobile Office",
+      "recency": "Active",
+      "matches": ["Power Apps", "Power Automate", "Automation", "Integrations", "Microsoft 365"],
+      "gaps": ["PowerShell", "SharePoint / Teams depth", "Consulting and workshop ownership"],
+      "url": "https://karriere.cancom.de/jobs/consultant-microsoft-365-power-platform-m-w-d-de-j10478/",
+      "status": "Verified active"
+    },
+    {
+      "fit": 93,
+      "company": "ALMATO",
+      "role": "Power Platform Developer",
+      "location": "Stuttgart",
+      "workMode": "Hybrid / on-site",
+      "recency": "Recent",
+      "matches": ["Power Automate", "Dataverse", "C#", "JavaScript", "Azure", "Microsoft 365"],
+      "gaps": ["Power BI", "Microsoft Fabric"],
+      "url": "https://en.devjobs.de/job/b494448780f8e016b2af1f8b290c5f96",
+      "status": "Recently verified"
+    },
+    {
+      "fit": 92,
+      "company": "Randstad Professional",
+      "role": "Microsoft Power Platform Developer",
+      "location": "Frankfurt-based",
+      "workMode": "100% remote · freelance",
+      "recency": "Posted ~11 Sep 2026",
+      "matches": ["Model-driven Apps", "Dataverse", "Power Platform development", "Governance"],
+      "gaps": ["Strict must-have requirements", "Freelance contract rather than permanent employment"],
+      "url": "https://www.freelancermap.de/projekt/microsoft-power-platform-developer-m-w-d-3037194",
+      "status": "Recent"
+    },
+    {
+      "fit": 91,
+      "company": "schlaich bergermann partner",
+      "role": "Senior IT-Spezialist Microsoft 365, Power Platform & KI",
+      "location": "Stuttgart",
+      "workMode": "Home office possible",
+      "recency": "Published 9 Sep 2026",
+      "matches": ["Power Platform", "Microsoft 365", "Automation", "AI orientation"],
+      "gaps": ["Broader internal IT / M365 remit", "Not a pure application development role"],
+      "url": "https://www.karrieresprung.de/jobs/1193330",
+      "status": "Recent"
+    },
+    {
+      "fit": 90,
+      "company": "Schmieder",
+      "role": "Microsoft Power Platform Developer",
+      "location": "Ravensburg, Baden-Württemberg",
+      "workMode": "Not confirmed",
+      "recency": "~23 days old",
+      "matches": ["Canvas Apps", "Model-driven Apps", "Power Automate", "Dataverse", "C#", "Azure", "APIs"],
+      "gaps": ["Architecture / governance", "Reusable-component responsibility"],
+      "url": "",
+      "status": "Re-verify before applying"
+    },
+    {
+      "fit": 90,
+      "company": "Power Reply",
+      "role": "Power Platform Solution Architect",
+      "location": "Köln",
+      "workMode": "Consulting",
+      "recency": "~9 days",
+      "matches": ["Power Platform architecture", "Azure", "Integrations", "International consulting"],
+      "gaps": ["Architecture-heavy role", "AI / GenAI expectations"],
+      "url": "",
+      "status": "Re-verify before applying"
+    },
+    {
+      "fit": 89,
+      "company": "Axians",
+      "role": "M365 Power Platform Senior Consultant",
+      "location": "Uelzen / broader Axians locations",
+      "workMode": "Partly remote",
+      "recency": "~12 days",
+      "matches": ["Power Apps", "Power Automate", "Dataverse", "Azure", "APIs", "ALM", "Microsoft 365 integration"],
+      "gaps": ["Governance", "Security", "Identity", "Architecture depth"],
+      "url": "",
+      "status": "Re-verify before applying"
+    },
+    {
+      "fit": 88,
+      "company": "Power Reply",
+      "role": "Senior Power Platform Consultant — Microsoft & AI",
+      "location": "Hamburg",
+      "workMode": "Consulting",
+      "recency": "~15 days",
+      "matches": ["Power Apps", "Power Automate", "Dataverse", "Azure", "APIs"],
+      "gaps": ["Copilot", "Generative AI focus"],
+      "url": "",
+      "status": "Re-verify before applying"
+    },
+    {
+      "fit": 87,
+      "company": "Deloro Wear Solutions",
+      "role": "Application Manager Microsoft Power Platform & SAP",
+      "location": "Koblenz",
+      "workMode": "Not confirmed",
+      "recency": "Posted 8 Sep 2026",
+      "matches": ["Power Apps", "Power Automate", "Dataverse", "Process automation"],
+      "gaps": ["Significant SAP ECC responsibility"],
+      "url": "",
+      "status": "Recent"
+    }
+  ],
+  "marketGaps": [
+    "Power BI / Microsoft Fabric",
+    "Copilot Studio / Generative AI",
+    "Power Platform ALM and governance",
+    "PCF (Power Apps Component Framework)",
+    "PowerShell",
+    "Deeper Azure integration",
+    "Azure Functions / Service Bus",
+    "Testing frameworks around Dynamics / Power Platform"
+  ]
+}
